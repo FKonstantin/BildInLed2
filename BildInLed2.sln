@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BildInLed2", "BildInLed2.csproj", "{B535B5F7-3154-4DD4-8325-BD688754B545}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B535B5F7-3154-4DD4-8325-BD688754B545}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B535B5F7-3154-4DD4-8325-BD688754B545}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B535B5F7-3154-4DD4-8325-BD688754B545}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B535B5F7-3154-4DD4-8325-BD688754B545}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7A7367F-BCAE-4A16-9C92-FF75B47FE517}
+	EndGlobalSection
+EndGlobal

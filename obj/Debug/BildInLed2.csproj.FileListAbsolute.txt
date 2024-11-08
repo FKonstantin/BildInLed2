@@ -1,0 +1,10 @@
+C:\Prj\BildInLed2\bin\Debug\BildInLed2.exe.config
+C:\Prj\BildInLed2\bin\Debug\BildInLed2.exe
+C:\Prj\BildInLed2\bin\Debug\BildInLed2.pdb
+C:\Prj\BildInLed2\obj\Debug\BildInLed2.csproj.AssemblyReference.cache
+C:\Prj\BildInLed2\obj\Debug\BildInLed2.Properties.Resources.resources
+C:\Prj\BildInLed2\obj\Debug\BildInLed2.csproj.GenerateResource.cache
+C:\Prj\BildInLed2\obj\Debug\BildInLed2.csproj.CoreCompileInputs.cache
+C:\Prj\BildInLed2\obj\Debug\BildInLed2.exe
+C:\Prj\BildInLed2\obj\Debug\BildInLed2.pdb
+C:\Prj\BildInLed2\obj\Debug\BildInLed2.Form1.resources
